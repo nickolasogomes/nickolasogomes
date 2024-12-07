@@ -67,6 +67,16 @@ Me chamo Níckolas Gomes, tenho 26 anos e sou natural do Rio Grande do Sul. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
+<img
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+          
+
 <img 
     align="left" 
     alt="TypeScript"
